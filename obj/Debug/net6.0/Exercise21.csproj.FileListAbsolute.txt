@@ -1,0 +1,15 @@
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.csproj.AssemblyReference.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.GeneratedMSBuildEditorConfig.editorconfig
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.AssemblyInfoInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.AssemblyInfo.cs
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.csproj.CoreCompileInputs.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\bin\Debug\net6.0\Exercise21.exe
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\bin\Debug\net6.0\Exercise21.deps.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\bin\Debug\net6.0\Exercise21.runtimeconfig.json
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\bin\Debug\net6.0\Exercise21.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\bin\Debug\net6.0\Exercise21.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\refint\Exercise21.dll
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.pdb
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\Exercise21.genruntimeconfig.cache
+D:\VZ\Разное\GeekBrains\Программирование\Exercise21\obj\Debug\net6.0\ref\Exercise21.dll
